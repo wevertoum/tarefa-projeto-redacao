@@ -1,0 +1,149 @@
+    .fundo_cabecalho {
+        background: #ffffff url("img/bg-branco.jpg") repeat;
+    }
+    .logo {
+        height: 200px;
+        text-align: center;
+        margin: auto;
+    }
+
+    .space_down_numeros {
+        background-image: url("img/ul-bg.png");
+        background-repeat: no-repeat;
+        height: 120px;
+        padding-top:-5px;
+        text-align: center;
+        margin: auto;
+        background-position: center 80px, 0 bottom, 0 bottom;
+    }
+
+    .numeros {
+        text-align: center;
+        display: inline-block;
+        vertical-align: top;
+    }
+
+    .numero_1 {
+        float:left;
+        height: 100px;
+        width: 85px;
+        background-image: url("img/1.png"), url("img/nav-sombra.png"), url("img/nav-ground.png");
+        background-repeat: no-repeat;
+        background-position: 15px -180px, 0 bottom, 0 bottom;
+    }
+
+    .numero_2 {
+        float:left;
+        height: 100px;
+        width: 85px;
+        background-image: url("img/2.png"), url("img/nav-sombra.png"), url("img/nav-ground.png");
+        background-repeat: no-repeat;
+        background-position: 15px -180px, 0 bottom, 0 bottom;
+    }
+
+    .numero_3 {
+        float:left;
+        height: 100px;
+        width: 85px;
+        background-image: url("img/3.png"), url("img/nav-ground-active.png");
+        background-repeat: no-repeat;
+        background-position:15px 5px, 0 bottom, 0 bottom;
+    }
+
+    .numero_4 {
+        float:left;
+        height: 100px;
+        width: 85px;
+        background-image: url("img/4.png"), url("img/nav-sombra.png"), url("img/nav-ground.png");
+        background-repeat: no-repeat;
+        background-position: 15px -90px, 0 bottom, 0 bottom;
+    }
+
+
+   .caixa_video {
+        padding-left: 35%;
+        background: #ffffff url("img/bg-azul.jpg") repeat;
+        padding-bottom: 0px;
+    }
+
+    .video {
+        width: 560px;
+        height: 315px;
+    }
+
+    .titulo {
+        text-align: right;
+        font-size: 18px;
+    }
+
+    .texto-em-negrito {
+        font-weight: bold;
+    }
+
+    .lorem1 {
+        text-align: left;
+        margin-bottom: 50px;
+        padding-top: 50px;
+    }
+
+    .produto-info {
+        margin-top: 20px;
+        margin-bottom: 50px;
+    }
+
+
+    .quadrado-call-to-action {
+        font-family: 'Montserrat', sans-serif;
+        font-size: 16px;
+        background-color: orange;
+        width: 160px;
+        color: white;
+        margin: auto;
+    }
+
+    .comentarios {
+        margin-top: 40px;
+    }
+
+    .comentarios-titulo {
+        font-family: 'Montserrat', sans-serif;
+        color: white;
+        width:140px;
+        text-align: center;
+        font-size: 16px;
+        background-color: #02abf3;
+        background-size: 100% 5px;
+        padding: 9px;
+        margin-left: 10px;
+
+    }
+
+    .caixa-azul {
+        width: 0; 
+        height: 0; 
+        border-left: 5px solid transparent;
+        border-right: 5px solid transparent;
+        border-top: 5px solid #02abf3;
+        margin-left: 70px;
+    }
+
+    .user-pic {
+        width: 60px;
+        height: 60px;
+        margin-left: 50px;
+        border-radius: 50%;
+        background-color: #00aaf3;
+    }
+
+    .faixa-azul-claro {
+        background-color: #c2e9ee;
+        height: 10px;
+    }
+
+    .faixa-fundo {
+        width: 100%;
+        height: 40px;
+        background: #ffffff url("img/bg-azul.jpg") repeat;
+        padding-bottom: 0px;
+    }
+
